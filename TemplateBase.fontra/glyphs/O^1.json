@@ -1,0 +1,82 @@
+{
+"name": "O",
+"sources": [
+{
+"name": "",
+"layerName": "f98ae03e",
+"locationBase": "f98ae03e"
+},
+{
+"name": "",
+"layerName": "70fdd226",
+"locationBase": "70fdd226"
+},
+{
+"name": "",
+"layerName": "cf36384c",
+"locationBase": "cf36384c"
+}
+],
+"layers": {
+"70fdd226": {
+"glyph": {
+"components": [
+{
+"name": "ctom"
+},
+{
+"name": "ctom",
+"transformation": {
+"translateX": 630,
+"translateY": 750,
+"scaleX": -1,
+"scaleY": -1
+}
+}
+],
+"xAdvance": 830
+}
+},
+"cf36384c": {
+"glyph": {
+"components": [
+{
+"name": "ctom"
+},
+{
+"name": "ctom",
+"transformation": {
+"translateX": 529,
+"translateY": 750,
+"scaleX": -1,
+"scaleY": -1
+}
+}
+],
+"xAdvance": 830
+}
+},
+"f98ae03e": {
+"glyph": {
+"components": [
+{
+"name": "ctom",
+"transformation": {
+"translateX": 7
+}
+},
+{
+"name": "ctom",
+"transformation": {
+"translateX": 597,
+"translateY": 750,
+"scaleX": -1,
+"scaleY": -1
+}
+}
+],
+"xAdvance": 790
+}
+}
+}
+}

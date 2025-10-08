@@ -1,0 +1,52 @@
+{
+"name": "c",
+"sources": [
+{
+"name": "",
+"layerName": "f98ae03e",
+"locationBase": "f98ae03e"
+},
+{
+"name": "",
+"layerName": "70fdd226",
+"locationBase": "70fdd226"
+},
+{
+"name": "",
+"layerName": "cf36384c",
+"locationBase": "cf36384c"
+}
+],
+"layers": {
+"70fdd226": {
+"glyph": {
+"components": [
+{
+"name": "ctom.half"
+}
+],
+"xAdvance": 500
+}
+},
+"cf36384c": {
+"glyph": {
+"components": [
+{
+"name": "ctom.half"
+}
+],
+"xAdvance": 218
+}
+},
+"f98ae03e": {
+"glyph": {
+"components": [
+{
+"name": "ctom.half"
+}
+],
+"xAdvance": 238
+}
+}
+}
+}
