@@ -1,0 +1,113 @@
+{
+"name": "h",
+"sources": [
+{
+"name": "",
+"layerName": "f98ae03e",
+"locationBase": "f98ae03e"
+},
+{
+"name": "",
+"layerName": "70fdd226",
+"locationBase": "70fdd226"
+},
+{
+"name": "",
+"layerName": "cf36384c",
+"locationBase": "cf36384c"
+}
+],
+"layers": {
+"70fdd226": {
+"glyph": {
+"components": [
+{
+"name": "itom",
+"location": {
+"i-length": 750
+}
+},
+{
+"name": "jtom",
+"transformation": {
+"translateX": 440,
+"translateY": 249,
+"rotation": 90
+}
+},
+{
+"name": "itom",
+"transformation": {
+"translateX": 260,
+"translateY": -1
+},
+"location": {
+"i-length": 250.73
+}
+}
+],
+"xAdvance": 500
+}
+},
+"cf36384c": {
+"glyph": {
+"components": [
+{
+"name": "itom",
+"location": {
+"i-length": 750
+}
+},
+{
+"name": "jtom",
+"transformation": {
+"translateX": 270,
+"translateY": 250,
+"rotation": 90
+}
+},
+{
+"name": "itom",
+"transformation": {
+"translateX": 250
+},
+"location": {
+"i-length": 250
+}
+}
+],
+"xAdvance": 500
+}
+},
+"f98ae03e": {
+"glyph": {
+"components": [
+{
+"name": "itom",
+"location": {
+"i-length": 750
+}
+},
+{
+"name": "jtom",
+"transformation": {
+"translateX": 350,
+"translateY": 250,
+"rotation": 90
+}
+},
+{
+"name": "itom",
+"transformation": {
+"translateX": 250
+},
+"location": {
+"i-length": 250
+}
+}
+],
+"xAdvance": 500
+}
+}
+}
+}

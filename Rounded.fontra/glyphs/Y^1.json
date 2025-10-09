@@ -1,0 +1,104 @@
+{
+"name": "Y",
+"sources": [
+{
+"name": "",
+"layerName": "f98ae03e",
+"locationBase": "f98ae03e"
+},
+{
+"name": "",
+"layerName": "70fdd226",
+"locationBase": "70fdd226"
+},
+{
+"name": "",
+"layerName": "cf36384c",
+"locationBase": "cf36384c"
+}
+],
+"layers": {
+"70fdd226": {
+"glyph": {
+"components": [
+{
+"name": "vtom",
+"transformation": {
+"translateX": 138
+}
+},
+{
+"name": "ktom",
+"transformation": {
+"translateX": -74,
+"translateY": 374
+}
+}
+],
+"xAdvance": 500
+}
+},
+"cf36384c": {
+"glyph": {
+"components": [
+{
+"name": "vtom",
+"transformation": {
+"translateX": 209
+}
+},
+{
+"name": "ktom",
+"transformation": {
+"translateX": -4,
+"translateY": 375
+}
+}
+],
+"xAdvance": 500
+}
+},
+"f98ae03e": {
+"glyph": {
+"components": [
+{
+"name": "ktom",
+"transformation": {
+"translateY": 600
+}
+},
+{
+"name": "ktom.alt",
+"transformation": {
+"translateX": 250,
+"translateY": 600
+}
+},
+{
+"name": "jtom",
+"transformation": {
+"translateX": 188,
+"translateY": 450
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateY": -300
+}
+},
+{
+"name": "dotom"
+},
+{
+"name": "dotom",
+"transformation": {
+"translateY": -150
+}
+}
+],
+"xAdvance": 500
+}
+}
+}
+}
