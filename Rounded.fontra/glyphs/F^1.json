@@ -34,23 +34,17 @@
 "name": "itom"
 },
 {
-"name": "etom",
+"name": "dotom",
 "transformation": {
-"translateX": 180,
-"translateY": -40
-},
-"location": {
-"e-length": 120
+"translateX": -25,
+"translateY": 100
 }
 },
 {
-"name": "etom",
+"name": "ktom",
 "transformation": {
-"translateX": 180,
-"translateY": 210
-},
-"location": {
-"e-length": 220
+"translateX": 147,
+"translateY": 600
 }
 }
 ],

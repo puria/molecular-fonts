@@ -22,21 +22,81 @@
 "glyph": {
 "components": [
 {
-"name": "ktom",
+"name": "jtom",
 "transformation": {
-"translateX": 240
+"translateX": 335,
+"translateY": 150,
+"rotation": 90
 }
 },
 {
-"name": "ctom"
+"name": "jtom",
+"transformation": {
+"translateX": 335,
+"translateY": 595,
+"rotation": 90
+}
 },
 {
-"name": "ctom",
+"name": "dotom",
 "transformation": {
-"translateX": 630,
-"translateY": 750,
-"scaleX": -1,
-"scaleY": -1
+"translateX": -150,
+"translateY": -50
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": -150,
+"translateY": 217
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": -150,
+"translateY": 350
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": -150,
+"translateY": 83
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": 170,
+"translateY": -50
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": 170,
+"translateY": 217
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": 170,
+"translateY": 350
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": 170,
+"translateY": 83
+}
+},
+{
+"name": "ktom",
+"transformation": {
+"translateX": 200
 }
 }
 ],
@@ -52,21 +112,81 @@
 "glyph": {
 "components": [
 {
-"name": "ktom",
+"name": "jtom",
 "transformation": {
-"translateX": 210
+"translateX": 190,
+"translateY": 150,
+"rotation": 90
 }
 },
 {
-"name": "ctom"
+"name": "jtom",
+"transformation": {
+"translateX": 190,
+"translateY": 730,
+"rotation": 90
+}
 },
 {
-"name": "ctom",
+"name": "dotom",
 "transformation": {
-"translateX": 530,
-"translateY": 750,
-"scaleX": -1,
-"scaleY": -1
+"translateX": -230,
+"translateY": -90
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": -230,
+"translateY": 250
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": -230,
+"translateY": 430
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": -230,
+"translateY": 80
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": -40,
+"translateY": -90
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": -40,
+"translateY": 257
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": -40,
+"translateY": 430
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": -40,
+"translateY": 83
+}
+},
+{
+"name": "ktom",
+"transformation": {
+"translateX": 40
 }
 }
 ],

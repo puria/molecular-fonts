@@ -31,20 +31,19 @@
 "glyph": {
 "components": [
 {
-"name": "ctom"
+"name": "itom"
 },
 {
-"name": "jtom",
+"name": "ktom",
 "transformation": {
-"translateX": 315
+"translateX": 147,
+"translateY": 600
 }
 },
 {
-"name": "jtom",
+"name": "ktom.alt",
 "transformation": {
-"translateX": 575,
-"translateY": 476,
-"rotation": 90
+"translateX": 147
 }
 }
 ],

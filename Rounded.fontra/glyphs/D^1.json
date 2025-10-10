@@ -36,24 +36,31 @@
 {
 "name": "jtom",
 "transformation": {
-"translateX": 166
+"translateX": 300,
+"translateY": 150
 }
 },
 {
-"name": "jtom",
+"name": "ktom",
 "transformation": {
-"translateX": 440,
-"translateY": 260,
-"rotation": 90
+"translateX": 147,
+"translateY": 600
 }
 },
 {
-"name": "ctom.half",
+"name": "etom",
 "transformation": {
-"translateX": 338,
-"translateY": 750,
-"scaleX": -1,
-"scaleY": -1
+"translateX": 300,
+"translateY": 300
+},
+"location": {
+"e-length": 600
+}
+},
+{
+"name": "ktom.alt",
+"transformation": {
+"translateX": 147
 }
 }
 ],

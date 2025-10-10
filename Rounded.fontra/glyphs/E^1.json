@@ -34,34 +34,22 @@
 "name": "itom"
 },
 {
-"name": "etom",
+"name": "jtom",
 "transformation": {
-"translateX": 180,
-"translateY": -90
-},
-"location": {
-"e-length": 120
+"translateX": 300,
+"rotation": 90
 }
 },
 {
-"name": "etom",
+"name": "jtom",
 "transformation": {
-"translateX": 180,
-"translateY": -360
-},
-"location": {
-"e-length": 220
+"translateX": 300,
+"translateY": 675,
+"rotation": 90
 }
 },
 {
-"name": "etom",
-"transformation": {
-"translateX": 180,
-"translateY": 210
-},
-"location": {
-"e-length": 220
-}
+"name": "dotom"
 }
 ],
 "xAdvance": 480

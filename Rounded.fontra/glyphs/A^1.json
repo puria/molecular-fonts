@@ -31,49 +31,89 @@
 "glyph": {
 "components": [
 {
-"name": "vtom"
+"name": "itom",
+"location": {
+"i-length": 750
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": 81
+}
+},
+{
+"name": "ktom",
+"transformation": {
+"translateX": 230,
+"translateY": 600
+}
 },
 {
 "name": "etom",
 "transformation": {
-"translateX": 88,
-"translateY": -200
+"translateX": 431
 },
 "location": {
-"e-length": 500
+"e-length": 600
 }
 },
 {
-"name": "vtom.alt",
+"name": "etom",
 "transformation": {
-"translateX": 300
+"translateX": 431,
+"translateY": 300
+},
+"location": {
+"e-length": 600
 }
 }
 ],
-"xAdvance": 755
+"xAdvance": 665,
+"guidelines": [
+{
+"x": 576,
+"y": 688
+}
+]
 }
 },
 "cf36384c": {
 "glyph": {
 "components": [
 {
-"name": "vtom"
+"name": "itom",
+"location": {
+"i-length": 750
+}
+},
+{
+"name": "dotom"
+},
+{
+"name": "ktom",
+"transformation": {
+"translateX": 147,
+"translateY": 600
+}
 },
 {
 "name": "etom",
 "transformation": {
-"translateX": 87,
-"translateY": -152,
-"scaleX": 0.6098224744142184
+"translateX": 300
 },
 "location": {
-"e-length": 336.97
+"e-length": 600
 }
 },
 {
-"name": "vtom.alt",
+"name": "etom",
 "transformation": {
-"translateX": 185
+"translateX": 300,
+"translateY": 300
+},
+"location": {
+"e-length": 600
 }
 }
 ],
