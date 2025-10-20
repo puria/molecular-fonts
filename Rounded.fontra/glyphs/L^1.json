@@ -34,13 +34,10 @@
 "name": "itom"
 },
 {
-"name": "etom",
+"name": "dotom",
 "transformation": {
-"translateX": 180,
-"translateY": -360
-},
-"location": {
-"e-length": 340
+"translateX": 82,
+"translateY": -200
 }
 }
 ],
@@ -54,13 +51,10 @@
 "name": "itom"
 },
 {
-"name": "etom",
+"name": "dotom",
 "transformation": {
-"translateX": 20,
-"translateY": -440
-},
-"location": {
-"e-length": 240
+"translateX": -160,
+"translateY": -260
 }
 }
 ],

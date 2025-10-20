@@ -36,19 +36,28 @@
 {
 "name": "itom",
 "transformation": {
-"translateX": 660
+"translateX": 705
 }
 },
 {
-"name": "vtom",
+"name": "ktom",
 "transformation": {
-"translateX": 325
+"translateX": 150,
+"translateY": 600
 }
 },
 {
-"name": "vtom.alt",
+"name": "ktom.alt",
 "transformation": {
-"translateX": 140
+"translateX": 430,
+"translateY": 600
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": 218,
+"translateY": 200
 }
 }
 ],
@@ -64,17 +73,29 @@
 {
 "name": "itom",
 "transformation": {
-"translateX": 360
+"translateX": 413
 }
 },
 {
-"name": "vtom",
+"name": "ktom",
 "transformation": {
-"translateX": 185
+"translateX": 71,
+"translateY": 600
 }
 },
 {
-"name": "vtom.alt"
+"name": "ktom.alt",
+"transformation": {
+"translateX": 236,
+"translateY": 600
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": -8,
+"translateY": 299
+}
 }
 ],
 "xAdvance": 460

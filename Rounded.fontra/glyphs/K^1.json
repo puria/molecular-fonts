@@ -25,16 +25,29 @@
 "name": "itom"
 },
 {
-"name": "ktom",
+"name": "dotom",
 "transformation": {
-"translateX": 120
+"translateX": 80,
+"translateY": 75
 }
 },
 {
-"name": "ktom.alt",
+"name": "vtom",
 "transformation": {
-"translateX": 120,
-"translateY": 374
+"translateX": 230,
+"translateY": 450
+},
+"location": {
+"v-height": 750
+}
+},
+{
+"name": "vtom.alt",
+"transformation": {
+"translateX": 230
+},
+"location": {
+"v-height": 750
 }
 }
 ],
@@ -48,16 +61,29 @@
 "name": "itom"
 },
 {
-"name": "ktom",
+"name": "dotom",
 "transformation": {
-"translateX": 10
+"translateX": -159,
+"translateY": 95
 }
 },
 {
-"name": "ktom.alt",
+"name": "vtom",
 "transformation": {
-"translateX": 9,
-"translateY": 375
+"translateX": 70,
+"translateY": 450
+},
+"location": {
+"v-height": 750
+}
+},
+{
+"name": "vtom.alt",
+"transformation": {
+"translateX": 70
+},
+"location": {
+"v-height": 750
 }
 }
 ],

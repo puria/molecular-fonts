@@ -31,30 +31,32 @@
 "glyph": {
 "components": [
 {
-"name": "ctom"
-},
-{
-"name": "etom",
-"transformation": {
-"translateX": 354,
-"translateY": -140
-},
-"location": {
-"e-length": 300
-}
+"name": "itom"
 },
 {
 "name": "jtom",
 "transformation": {
-"translateX": 315
+"translateX": 300,
+"translateY": 150
 }
 },
 {
-"name": "jtom",
+"name": "dotom",
 "transformation": {
-"translateX": 575,
-"translateY": 476,
-"rotation": 90
+"translateX": 50
+}
+},
+{
+"name": "ktom",
+"transformation": {
+"translateX": 147,
+"translateY": 600
+}
+},
+{
+"name": "ktom.alt",
+"transformation": {
+"translateX": 147
 }
 }
 ],
@@ -65,30 +67,32 @@
 "glyph": {
 "components": [
 {
-"name": "ctom"
-},
-{
-"name": "etom",
-"transformation": {
-"translateX": 215,
-"translateY": -190
-},
-"location": {
-"e-length": 300
-}
+"name": "itom"
 },
 {
 "name": "jtom",
 "transformation": {
-"translateX": 265
+"translateX": 223,
+"translateY": 150
 }
 },
 {
-"name": "jtom",
+"name": "dotom",
 "transformation": {
-"translateX": 515,
-"translateY": 500,
-"rotation": 90
+"translateX": -67
+}
+},
+{
+"name": "ktom",
+"transformation": {
+"translateX": 70,
+"translateY": 600
+}
+},
+{
+"name": "ktom.alt",
+"transformation": {
+"translateX": 70
 }
 }
 ],

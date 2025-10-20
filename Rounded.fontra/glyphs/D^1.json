@@ -36,21 +36,21 @@
 {
 "name": "jtom",
 "transformation": {
-"translateX": 300,
+"translateX": 435,
 "translateY": 150
 }
 },
 {
 "name": "ktom",
 "transformation": {
-"translateX": 147,
+"translateX": 230,
 "translateY": 600
 }
 },
 {
 "name": "etom",
 "transformation": {
-"translateX": 300,
+"translateX": 435,
 "translateY": 300
 },
 "location": {
@@ -60,11 +60,11 @@
 {
 "name": "ktom.alt",
 "transformation": {
-"translateX": 147
+"translateX": 230
 }
 }
 ],
-"xAdvance": 570
+"xAdvance": 665
 }
 },
 "cf36384c": {
@@ -76,24 +76,31 @@
 {
 "name": "jtom",
 "transformation": {
-"translateX": 20
+"translateX": 223,
+"translateY": 150
 }
 },
 {
-"name": "jtom",
+"name": "ktom",
 "transformation": {
-"translateX": 270,
-"translateY": 250,
-"rotation": 90
+"translateX": 70,
+"translateY": 600
 }
 },
 {
-"name": "ctom.half",
+"name": "etom",
 "transformation": {
-"translateX": 158,
-"translateY": 750,
-"scaleX": -1,
-"scaleY": -1
+"translateX": 223,
+"translateY": 300
+},
+"location": {
+"e-length": 600
+}
+},
+{
+"name": "ktom.alt",
+"transformation": {
+"translateX": 70
 }
 }
 ],

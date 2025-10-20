@@ -88,19 +88,23 @@
 }
 },
 {
-"name": "dotom"
+"name": "dotom",
+"transformation": {
+"translateX": -110,
+"translateY": 20
+}
 },
 {
 "name": "ktom",
 "transformation": {
-"translateX": 147,
+"translateX": 67,
 "translateY": 600
 }
 },
 {
 "name": "etom",
 "transformation": {
-"translateX": 300
+"translateX": 220
 },
 "location": {
 "e-length": 600
@@ -109,7 +113,7 @@
 {
 "name": "etom",
 "transformation": {
-"translateX": 300,
+"translateX": 220,
 "translateY": 300
 },
 "location": {

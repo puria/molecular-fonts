@@ -34,19 +34,13 @@
 "name": "itom"
 },
 {
-"name": "etom",
+"name": "itom",
 "transformation": {
-"translateX": 108
-},
-"location": {
-"e-length": 359.873570138471
+"translateX": 300
 }
 },
 {
-"name": "itom",
-"transformation": {
-"translateX": 396
-}
+"name": "dotom"
 }
 ],
 "xAdvance": 676
@@ -59,22 +53,20 @@
 "name": "itom"
 },
 {
-"name": "etom",
+"name": "itom",
 "transformation": {
-"translateX": 5
-},
-"location": {
-"e-length": 260
+"translateX": 180
 }
 },
 {
-"name": "itom",
+"name": "dotom",
 "transformation": {
-"translateX": 249
+"translateX": -125,
+"translateY": 30
 }
 }
 ],
-"xAdvance": 295
+"xAdvance": 270.3158895427796
 }
 },
 "f98ae03e": {

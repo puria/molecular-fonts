@@ -36,23 +36,26 @@
 {
 "name": "jtom",
 "transformation": {
-"translateX": 300,
+"translateX": 380,
 "rotation": 90
 }
 },
 {
 "name": "jtom",
 "transformation": {
-"translateX": 300,
-"translateY": 675,
+"translateX": 380,
+"translateY": 600,
 "rotation": 90
 }
 },
 {
-"name": "dotom"
+"name": "dotom",
+"transformation": {
+"translateX": 80
+}
 }
 ],
-"xAdvance": 480
+"xAdvance": 460
 }
 },
 "cf36384c": {
@@ -62,33 +65,24 @@
 "name": "itom"
 },
 {
-"name": "etom",
+"name": "jtom",
 "transformation": {
-"translateX": 20,
-"translateY": -90
-},
-"location": {
-"e-length": 120
+"translateX": 220,
+"rotation": 90
 }
 },
 {
-"name": "etom",
+"name": "jtom",
 "transformation": {
-"translateX": 20,
-"translateY": -440
-},
-"location": {
-"e-length": 180
+"translateX": 220,
+"translateY": 730,
+"rotation": 90
 }
 },
 {
-"name": "etom",
+"name": "dotom",
 "transformation": {
-"translateX": 20,
-"translateY": 290
-},
-"location": {
-"e-length": 180
+"translateX": -116
 }
 }
 ],

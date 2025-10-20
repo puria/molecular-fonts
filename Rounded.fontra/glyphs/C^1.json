@@ -36,38 +36,37 @@
 {
 "name": "ktom",
 "transformation": {
-"translateX": 147,
+"translateX": 230,
 "translateY": 600
 }
 },
 {
 "name": "ktom.alt",
 "transformation": {
-"translateX": 147
+"translateX": 230
 }
 }
 ],
-"xAdvance": 669
+"xAdvance": 665
 }
 },
 "cf36384c": {
 "glyph": {
 "components": [
 {
-"name": "ctom"
+"name": "itom"
 },
 {
-"name": "jtom",
+"name": "ktom",
 "transformation": {
-"translateX": 265
+"translateX": 70,
+"translateY": 600
 }
 },
 {
-"name": "jtom",
+"name": "ktom.alt",
 "transformation": {
-"translateX": 515,
-"translateY": 500,
-"rotation": 90
+"translateX": 70
 }
 }
 ],

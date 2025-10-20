@@ -36,14 +36,14 @@
 {
 "name": "dotom",
 "transformation": {
-"translateX": -25,
+"translateX": 80,
 "translateY": 100
 }
 },
 {
 "name": "ktom",
 "transformation": {
-"translateX": 147,
+"translateX": 230,
 "translateY": 600
 }
 }
@@ -58,23 +58,17 @@
 "name": "itom"
 },
 {
-"name": "etom",
+"name": "dotom",
 "transformation": {
-"translateX": 20,
-"translateY": 40
-},
-"location": {
-"e-length": 120
+"translateX": -102,
+"translateY": 100
 }
 },
 {
-"name": "etom",
+"name": "ktom",
 "transformation": {
-"translateX": 20,
-"translateY": 290
-},
-"location": {
-"e-length": 180
+"translateX": 70,
+"translateY": 600
 }
 }
 ],
