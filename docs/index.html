@@ -1,0 +1,432 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Molecular Typography – Workshop</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Barlow from Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      :root {
+        --bg: #f7f7f7;
+        --fg: #111111;
+        --accent: #d00000;
+        --muted: #666666;
+        --max-width: 780px;
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      html,
+      body {
+        background: var(--bg);
+        color: var(--fg);
+        font-family:
+          "Barlow",
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+      }
+
+      body {
+        padding: 40px 16px 64px;
+        display: flex;
+        justify-content: center;
+      }
+
+      main {
+        width: 100%;
+        max-width: var(--max-width);
+      }
+
+      header {
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 24px;
+        margin-bottom: 32px;
+      }
+
+      .label {
+        text-transform: uppercase;
+        letter-spacing: 0.16em;
+        font-size: 0.72rem;
+        color: var(--muted);
+        margin-bottom: 8px;
+      }
+
+      h1 {
+        font-size: 2.1rem;
+        font-weight: 500;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        margin-bottom: 4px;
+      }
+
+      .subtitle {
+        font-size: 0.9rem;
+        color: var(--muted);
+        max-width: 32rem;
+      }
+
+      nav {
+        margin-top: 18px;
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+      }
+
+      nav a {
+        text-decoration: none;
+        color: var(--muted);
+        margin-right: 18px;
+        border-bottom: 1px solid transparent;
+        padding-bottom: 2px;
+      }
+
+      nav a:hover {
+        color: var(--fg);
+        border-bottom-color: var(--fg);
+      }
+
+      section {
+        margin-bottom: 32px;
+      }
+
+      section:not(:last-of-type) {
+        border-bottom: 1px solid #e0e0e0;
+        padding-bottom: 24px;
+      }
+
+      h2 {
+        font-size: 0.95rem;
+        text-transform: uppercase;
+        letter-spacing: 0.18em;
+        margin-bottom: 12px;
+        font-weight: 600;
+      }
+
+      p {
+        margin-bottom: 10px;
+        max-width: 60ch;
+      }
+
+      ul {
+        list-style: none;
+        margin-top: 6px;
+      }
+
+      ul li {
+        margin-bottom: 6px;
+      }
+
+      .time-row {
+        display: flex;
+        gap: 16px;
+        font-size: 0.9rem;
+        margin-bottom: 6px;
+      }
+
+      .time-slot {
+        width: 90px;
+        font-weight: 500;
+      }
+
+      .time-desc {
+        flex: 1;
+      }
+
+      a {
+        color: var(--accent);
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      footer {
+        margin-top: 16px;
+        font-size: 0.75rem;
+        color: var(--muted);
+      }
+
+      @media (max-width: 640px) {
+        body {
+          padding: 24px 14px 40px;
+        }
+
+        h1 {
+          font-size: 1.8rem;
+        }
+
+        .time-row {
+          flex-direction: column;
+        }
+
+        .time-slot {
+          width: auto;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <div class="label">Workshop</div>
+        <h1>Molecular Typography</h1>
+        <p class="subtitle">
+          A hands-on introduction to building type systems from simple modules,
+          combining physical prototyping, variable fonts and minimal theory.
+        </p>
+        <svg
+          viewBox="0 0 780 180"
+          xmlns="http://www.w3.org/2000/svg"
+          role="img"
+          aria-labelledby="heroTitle heroDesc"
+        >
+          <title id="heroTitle">Molecular Typography – Dot Grid M</title>
+          <desc id="heroDesc">
+            A dot grid forming the letter M using black and grey circles.
+          </desc>
+          <rect width="780" height="180" fill="#f7f7f7" />
+          <g>
+            <!-- Grey background grid -->
+            <g fill="#bbbbbb">
+              <!-- 6×4 grid starting at x=80, y=40 -->
+              <!-- rows: 40, 70, 100, 130 -->
+              <!-- cols: 80, 110, 140, 170, 200, 230 -->
+              <circle cx="80" cy="40" r="4" />
+              <circle cx="110" cy="40" r="4" />
+              <circle cx="140" cy="40" r="4" />
+              <circle cx="170" cy="40" r="4" />
+              <circle cx="200" cy="40" r="4" />
+              <circle cx="230" cy="40" r="4" />
+
+              <circle cx="80" cy="70" r="4" />
+              <circle cx="110" cy="70" r="4" />
+              <circle cx="140" cy="70" r="4" />
+              <circle cx="170" cy="70" r="4" />
+              <circle cx="200" cy="70" r="4" />
+              <circle cx="230" cy="70" r="4" />
+
+              <circle cx="80" cy="100" r="4" />
+              <circle cx="110" cy="100" r="4" />
+              <circle cx="140" cy="100" r="4" />
+              <circle cx="170" cy="100" r="4" />
+              <circle cx="200" cy="100" r="4" />
+              <circle cx="230" cy="100" r="4" />
+
+              <circle cx="80" cy="130" r="4" />
+              <circle cx="110" cy="130" r="4" />
+              <circle cx="140" cy="130" r="4" />
+              <circle cx="170" cy="130" r="4" />
+              <circle cx="200" cy="130" r="4" />
+              <circle cx="230" cy="130" r="4" />
+            </g>
+
+            <!-- Black dots forming the M -->
+            <g fill="#111111">
+              <!-- Left column -->
+              <circle cx="80" cy="40" r="8" />
+              <circle cx="80" cy="70" r="8" />
+              <circle cx="80" cy="100" r="8" />
+              <circle cx="80" cy="130" r="8" />
+
+              <!-- Right column -->
+              <circle cx="230" cy="40" r="8" />
+              <circle cx="230" cy="70" r="8" />
+              <circle cx="230" cy="100" r="8" />
+              <circle cx="230" cy="130" r="8" />
+
+              <!-- Middle diagonals -->
+              <circle cx="110" cy="70" r="8" />
+              <circle cx="140" cy="100" r="8" />
+              <circle cx="170" cy="70" r="8" />
+            </g>
+          </g>
+        </svg>
+
+        <nav>
+          <a href="#abstract">Abstract</a>
+          <a href="#plan">Course plan</a>
+          <a href="#timetable">Timetable</a>
+          <a href="#links">Materials & tools</a>
+        </nav>
+      </header>
+
+      <section id="abstract">
+        <h2>Abstract</h2>
+        <p>
+          This workshop explores <strong>molecular typography</strong>:
+          designing type from small, reusable “typtom” elements. Starting from
+          simple shapes on paper, we will move towards digital prototypes and
+          variable fonts, keeping the process accessible to both designers and
+          non-designers.
+        </p>
+        <p>
+          The focus is on
+          <strong>systems, constraints and experiments</strong> rather than
+          polish: participants will build a shared visual vocabulary and test it
+          quickly across text, UI and motion contexts.
+        </p>
+      </section>
+
+      <section id="plan">
+        <h2>Course plan / Synopsis</h2>
+        <ul>
+          <li>
+            <strong>01 &mdash; Minimal theory</strong> &mdash; What are typtoms,
+            modular grids, and basic type parameters.
+          </li>
+          <li>
+            <strong>02 &mdash; Choosing a concept</strong> &mdash; Group
+            brainstorming for the “character” of our type family.
+          </li>
+          <li>
+            <strong>03 &mdash; Paper prototyping</strong> &mdash; Build glyph
+            molecules with paper, stickers or LEGO.
+          </li>
+          <li>
+            <strong>04 &mdash; Physical to digital</strong> &mdash; Translate
+            modules into a digital font workspace.
+          </li>
+          <li>
+            <strong>05 &mdash; Variable axes</strong> &mdash; Define at least
+            one simple axis (weight, width, mood...).
+          </li>
+          <li>
+            <strong>06 &mdash; Testing in context</strong> &mdash; Try the type
+            in UI mockups, paragraphs, and titles.
+          </li>
+        </ul>
+      </section>
+
+      <section id="timetable">
+        <h2>Timetable</h2>
+
+        <!-- Adjust times / blocks as needed -->
+        <div class="time-row">
+          <div class="time-slot">09:30 – 10:00</div>
+          <div class="time-desc">
+            Arrival, setup, quick tour of materials and tools.
+          </div>
+        </div>
+
+        <div class="time-row">
+          <div class="time-slot">10:00 – 11:00</div>
+          <div class="time-desc">
+            Intro + minimal theory: typtoms, modules, constraints, examples.
+          </div>
+        </div>
+
+        <div class="time-row">
+          <div class="time-slot">11:00 – 12:30</div>
+          <div class="time-desc">
+            Group brainstorming and paper prototyping of initial glyph
+            molecules.
+          </div>
+        </div>
+
+        <div class="time-row">
+          <div class="time-slot">12:30 – 14:00</div>
+          <div class="time-desc">Lunch break.</div>
+        </div>
+
+        <div class="time-row">
+          <div class="time-slot">14:00 – 15:30</div>
+          <div class="time-desc">
+            Physical to digital: setting up the font project and importing
+            modules.
+          </div>
+        </div>
+
+        <div class="time-row">
+          <div class="time-slot">15:30 – 17:00</div>
+          <div class="time-desc">
+            Variable axis, spacing, quick specimens, group critique and wrap-up.
+          </div>
+        </div>
+      </section>
+      <section id="links">
+        <h2>Materials, sources &amp; tools</h2>
+
+        <p><strong>Workshop materials</strong></p>
+        <ul>
+          <li>Paper, scissors, markers, <strong>LEGO dots</strong></li>
+          <li>Modern browser; camera / smartphone to document the process</li>
+          <li>A digital specimen + final posters / compositions</li>
+          <li>Basic documentation of the process (PDF / notes)</li>
+        </ul>
+
+        <p><strong>Software / tools</strong></p>
+        <ul>
+          <li>
+            <a href="https://fontra.puria.it" target="_blank" rel="noreferrer">
+              Fontra — open-source type editor
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://github.com/puria/molecular/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              A Fontra plugin for molecular typography
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://github.com/puria/molecular-fonts/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Molecular Fonts — base templates
+            </a>
+          </li>
+        </ul>
+
+        <p><strong>Background reading / references</strong></p>
+        <ul>
+          <li>
+            <a
+              href="https://www.youtube.com/watch?v=seM-sJcTh3w"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Molecular Typography — intro video
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://artistsbookreviews.com/2019/09/06/understanding-molecular-typography/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Understanding Molecular Typography — article
+            </a>
+          </li>
+        </ul>
+      </section>
+
+      <footer>
+        Molecular Typography &mdash; Workshop<br />
+        <a href="https://typtom.puria.it" target="_blank" rel="noreferrer"
+          >typtom.puria.it</a
+        >
+      </footer>
+    </main>
+  </body>
+</html>
