@@ -1,0 +1,82 @@
+{
+"name": "D",
+"sources": [
+{
+"name": "",
+"layerName": "f98ae03e",
+"locationBase": "f98ae03e",
+"customData": {
+"fontra.development.status": 4
+}
+},
+{
+"name": "",
+"layerName": "70fdd226",
+"locationBase": "70fdd226",
+"customData": {
+"fontra.development.status": 4
+}
+},
+{
+"name": "",
+"layerName": "cf36384c",
+"locationBase": "cf36384c",
+"customData": {
+"fontra.development.status": 4
+}
+}
+],
+"layers": {
+"70fdd226": {
+"glyph": {
+"components": [
+{
+"name": "itom"
+},
+{
+"name": "ctom",
+"transformation": {
+"translateX": 495,
+"scaleX": -1
+}
+}
+],
+"xAdvance": 575
+}
+},
+"cf36384c": {
+"glyph": {
+"components": [
+{
+"name": "itom"
+},
+{
+"name": "ctom",
+"transformation": {
+"translateX": 285,
+"scaleX": -1
+}
+}
+],
+"xAdvance": 475
+}
+},
+"f98ae03e": {
+"glyph": {
+"components": [
+{
+"name": "itom"
+},
+{
+"name": "ctom",
+"transformation": {
+"translateX": 395,
+"scaleX": -1
+}
+}
+],
+"xAdvance": 475
+}
+}
+}
+}

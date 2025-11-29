@@ -1,0 +1,120 @@
+{
+"name": "ktom",
+"sources": [
+{
+"name": "",
+"layerName": "f98ae03e",
+"locationBase": "f98ae03e"
+},
+{
+"name": "",
+"layerName": "cf36384c",
+"locationBase": "cf36384c"
+},
+{
+"name": "",
+"layerName": "70fdd226",
+"locationBase": "70fdd226"
+}
+],
+"layers": {
+"70fdd226": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 0,
+"y": 375
+},
+{
+"x": 300,
+"y": 0
+},
+{
+"x": 500,
+"y": 0
+},
+{
+"x": 200,
+"y": 375
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 500
+}
+},
+"cf36384c": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 0,
+"y": 375
+},
+{
+"x": 300,
+"y": 0
+},
+{
+"x": 320,
+"y": 0
+},
+{
+"x": 20,
+"y": 375
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 400
+}
+},
+"f98ae03e": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 0,
+"y": 375
+},
+{
+"x": 220,
+"y": 0
+},
+{
+"x": 320,
+"y": 0
+},
+{
+"x": 100,
+"y": 375
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 400,
+"guidelines": [
+{
+"y": 250
+},
+{
+"y": 350
+}
+]
+}
+}
+}
+}

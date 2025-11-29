@@ -1,0 +1,112 @@
+{
+"name": "M",
+"sources": [
+{
+"name": "",
+"layerName": "f98ae03e",
+"locationBase": "f98ae03e",
+"customData": {
+"fontra.development.status": 4
+}
+},
+{
+"name": "",
+"layerName": "70fdd226",
+"locationBase": "70fdd226",
+"customData": {
+"fontra.development.status": 4
+}
+},
+{
+"name": "",
+"layerName": "cf36384c",
+"locationBase": "cf36384c",
+"customData": {
+"fontra.development.status": 4
+}
+}
+],
+"layers": {
+"70fdd226": {
+"glyph": {
+"components": [
+{
+"name": "itom"
+},
+{
+"name": "itom",
+"transformation": {
+"translateX": 660
+}
+},
+{
+"name": "vtom",
+"transformation": {
+"translateX": 325
+}
+},
+{
+"name": "vtom.alt",
+"transformation": {
+"translateX": 140
+}
+}
+],
+"xAdvance": 940
+}
+},
+"cf36384c": {
+"glyph": {
+"components": [
+{
+"name": "itom"
+},
+{
+"name": "itom",
+"transformation": {
+"translateX": 360
+}
+},
+{
+"name": "vtom",
+"transformation": {
+"translateX": 185
+}
+},
+{
+"name": "vtom.alt"
+}
+],
+"xAdvance": 460
+}
+},
+"f98ae03e": {
+"glyph": {
+"components": [
+{
+"name": "itom"
+},
+{
+"name": "itom",
+"transformation": {
+"translateX": 430
+}
+},
+{
+"name": "vtom",
+"transformation": {
+"translateX": 215
+}
+},
+{
+"name": "vtom.alt",
+"transformation": {
+"translateX": 40
+}
+}
+],
+"xAdvance": 610
+}
+}
+}
+}

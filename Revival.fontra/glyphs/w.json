@@ -1,0 +1,157 @@
+{
+"name": "w",
+"sources": [
+{
+"name": "",
+"layerName": "f98ae03e",
+"locationBase": "f98ae03e"
+},
+{
+"name": "",
+"layerName": "70fdd226",
+"locationBase": "70fdd226"
+},
+{
+"name": "",
+"layerName": "cf36384c",
+"locationBase": "cf36384c"
+}
+],
+"layers": {
+"70fdd226": {
+"glyph": {
+"components": [
+{
+"name": "vtom",
+"transformation": {
+"translateX": 209.5
+},
+"location": {
+"v-height": 375
+}
+},
+{
+"name": "vtom.alt",
+"transformation": {
+"translateX": -87.5
+},
+"location": {
+"v-height": 375
+}
+},
+{
+"name": "vtom",
+"transformation": {
+"translateX": 600
+},
+"location": {
+"v-height": 375
+}
+},
+{
+"name": "vtom.alt",
+"transformation": {
+"translateX": 303
+},
+"location": {
+"v-height": 375
+}
+}
+],
+"xAdvance": 577
+}
+},
+"cf36384c": {
+"glyph": {
+"components": [
+{
+"name": "vtom",
+"transformation": {
+"translateX": 99.5
+},
+"location": {
+"v-height": 400
+}
+},
+{
+"name": "vtom.alt",
+"transformation": {
+"translateX": -87.5
+},
+"location": {
+"v-height": 400
+}
+},
+{
+"name": "vtom",
+"transformation": {
+"translateX": 300
+},
+"location": {
+"v-height": 400
+}
+},
+{
+"name": "vtom.alt",
+"transformation": {
+"translateX": 113
+},
+"location": {
+"v-height": 400
+}
+}
+],
+"xAdvance": 287
+}
+},
+"f98ae03e": {
+"glyph": {
+"components": [
+{
+"name": "vtom",
+"transformation": {
+"translateX": 119.5
+},
+"location": {
+"v-height": 375
+}
+},
+{
+"name": "vtom.alt",
+"transformation": {
+"translateX": -87.5
+},
+"location": {
+"v-height": 375
+}
+},
+{
+"name": "vtom",
+"transformation": {
+"translateX": 340
+},
+"location": {
+"v-height": 375
+}
+},
+{
+"name": "vtom.alt",
+"transformation": {
+"translateX": 133
+},
+"location": {
+"v-height": 375
+}
+}
+],
+"xAdvance": 387,
+"guidelines": [
+{
+"x": 230,
+"y": 375
+}
+]
+}
+}
+}
+}

@@ -1,0 +1,88 @@
+{
+"name": "k",
+"sources": [
+{
+"name": "",
+"layerName": "f98ae03e",
+"locationBase": "f98ae03e"
+},
+{
+"name": "",
+"layerName": "cf36384c",
+"locationBase": "cf36384c"
+},
+{
+"name": "",
+"layerName": "70fdd226",
+"locationBase": "70fdd226"
+}
+],
+"layers": {
+"70fdd226": {
+"glyph": {
+"components": [
+{
+"name": "ktom"
+},
+{
+"name": "itom",
+"location": {
+"i-length": 750
+}
+},
+{
+"name": "ktom.alt",
+"transformation": {
+"translateY": 205
+}
+}
+],
+"xAdvance": 500
+}
+},
+"cf36384c": {
+"glyph": {
+"components": [
+{
+"name": "ktom"
+},
+{
+"name": "itom",
+"location": {
+"i-length": 750
+}
+},
+{
+"name": "ktom.alt",
+"transformation": {
+"translateY": 205
+}
+}
+],
+"xAdvance": 500
+}
+},
+"f98ae03e": {
+"glyph": {
+"components": [
+{
+"name": "ktom"
+},
+{
+"name": "itom",
+"location": {
+"i-length": 750
+}
+},
+{
+"name": "ktom.alt",
+"transformation": {
+"translateY": 205
+}
+}
+],
+"xAdvance": 500
+}
+}
+}
+}
