@@ -1,0 +1,204 @@
+{
+  "fontInfo": {
+    "familyName": "Molecular Template Typtoms",
+    "versionMajor": 0,
+    "versionMinor": 1,
+    "copyright": "© 2025 Puria Nafisi Azizi. Released under the SIL Open Font License, Version 1.1.",
+    "trademark": "Molecular Template Typtoms is a trademark of Puria bv",
+    "description": "A modular open template for constructing molecular typography systems. Designed for use in Fontra and compatible with ASCII Typtoms structure.",
+    "sampleText": "Molecular typography builds letters as living structures — itoms, ctoms, dotoms & others.",
+    "designer": "Puria Nafisi Azizi",
+    "licenseDescription": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+    "licenseInfoURL": "https://scripts.sil.org/OFL",
+    "vendorID": "PNA"
+  },
+  "sources": {
+    "f98ae03e": {
+      "name": "Horizontal",
+      "location": {
+        "weight": 400
+      },
+      "lineMetricsHorizontalLayout": {
+        "ascender": {
+          "value": 800,
+          "zone": 16
+        },
+        "capHeight": {
+          "value": 750,
+          "zone": 16
+        },
+        "xHeight": {
+          "value": 500,
+          "zone": 16
+        },
+        "baseline": {
+          "value": 0,
+          "zone": -16
+        },
+        "descender": {
+          "value": -250,
+          "zone": -16
+        }
+      }
+    }
+  },
+  "customData": {
+    "fontra.projectGlyphSets": [
+      {
+        "codePointColumn": "unicode hex",
+        "dataFormat": "tsv/csv",
+        "glyphNameColumn": "name",
+        "hasHeader": true,
+        "name": "BF Latin base",
+        "url": "https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Latin/latin_base.csv"
+      },
+      {
+        "codePointColumn": "unicode hex",
+        "dataFormat": "tsv/csv",
+        "glyphNameColumn": "name",
+        "hasHeader": true,
+        "name": "BF Currencies core",
+        "url": "https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Currencies/currencies_core.csv"
+      },
+      {
+        "codePointColumn": "unicode hex",
+        "dataFormat": "tsv/csv",
+        "glyphNameColumn": "name",
+        "hasHeader": true,
+        "name": "BF Accent core",
+        "url": "https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Accents/accent_core.csv"
+      },
+      {
+        "codePointColumn": "unicode hex",
+        "dataFormat": "tsv/csv",
+        "glyphNameColumn": "name",
+        "hasHeader": true,
+        "name": "BF Figures fractions core",
+        "url": "https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Figures/figures_fractions_core.csv"
+      },
+      {
+        "codePointColumn": "unicode hex",
+        "dataFormat": "tsv/csv",
+        "glyphNameColumn": "name",
+        "hasHeader": true,
+        "name": "BF Figures plf",
+        "url": "https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Figures/figures_plf.csv"
+      },
+      {
+        "codePointColumn": "unicode hex",
+        "dataFormat": "tsv/csv",
+        "glyphNameColumn": "name",
+        "hasHeader": true,
+        "name": "BF Figures sup",
+        "url": "https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Figures/figures_sup.csv"
+      },
+      {
+        "codePointColumn": "unicode hex",
+        "dataFormat": "tsv/csv",
+        "glyphNameColumn": "name",
+        "hasHeader": true,
+        "name": "BF Figures tlf",
+        "url": "https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Figures/figures_tlf.csv"
+      },
+      {
+        "codePointColumn": "unicode hex",
+        "dataFormat": "tsv/csv",
+        "glyphNameColumn": "name",
+        "hasHeader": true,
+        "name": "BF Latin core",
+        "url": "https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Latin/latin_core.csv"
+      },
+      {
+        "codePointColumn": "unicode hex",
+        "dataFormat": "tsv/csv",
+        "glyphNameColumn": "name",
+        "hasHeader": true,
+        "name": "BF Math core",
+        "url": "https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Maths/math_core.csv"
+      },
+      {
+        "codePointColumn": "unicode hex",
+        "dataFormat": "tsv/csv",
+        "glyphNameColumn": "name",
+        "hasHeader": true,
+        "name": "BF Punctuation core",
+        "url": "https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Punctuations/punctuation_core.csv"
+      },
+      {
+        "codePointColumn": "unicode hex",
+        "dataFormat": "tsv/csv",
+        "glyphNameColumn": "name",
+        "hasHeader": true,
+        "name": "BF Space core",
+        "url": "https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Space/space_core.csv"
+      },
+      {
+        "codePointColumn": "unicode hex",
+        "dataFormat": "tsv/csv",
+        "glyphNameColumn": "name",
+        "hasHeader": true,
+        "name": "BF Symbols core",
+        "url": "https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Symbols/symbols_core.csv"
+      },
+      {
+        "codePointIsDecimal": false,
+        "dataFormat": "glyph-names",
+        "name": "Typtoms",
+        "url": "https://raw.githubusercontent.com/puria/molecular-glyphset/refs/heads/main/typtoms"
+      }
+    ],
+    "fontra.sourceStatusFieldDefinitions": [
+      {
+        "color": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "isDefault": true,
+        "label": "In progress",
+        "value": 0
+      },
+      {
+        "color": [
+          1,
+          0.5,
+          0,
+          1
+        ],
+        "label": "Checking-1",
+        "value": 1
+      },
+      {
+        "color": [
+          1,
+          1,
+          0,
+          1
+        ],
+        "label": "Checking-2",
+        "value": 2
+      },
+      {
+        "color": [
+          0,
+          0.5,
+          1,
+          1
+        ],
+        "label": "Checking-3",
+        "value": 3
+      },
+      {
+        "color": [
+          0,
+          1,
+          0.5,
+          1
+        ],
+        "label": "Validated",
+        "value": 4
+      }
+    ]
+  }
+}

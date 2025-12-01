@@ -1,0 +1,88 @@
+{
+"name": "rtom.alt",
+"axes": [
+{
+"name": "lunghezza",
+"minValue": 0,
+"defaultValue": 0,
+"maxValue": 100
+}
+],
+"sources": [
+{
+"name": "lunghezza=100",
+"layerName": "lunghezza=100",
+"location": {
+"lunghezza": 100
+},
+"locationBase": "f98ae03e"
+},
+{
+"name": "default",
+"layerName": "default",
+"locationBase": "f98ae03e"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 554,
+"y": 50
+},
+{
+"x": 484,
+"y": -19
+},
+{
+"x": -64,
+"y": 529
+},
+{
+"x": 6,
+"y": 598
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 500
+}
+},
+"lunghezza=100": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 554,
+"y": 50
+},
+{
+"x": 484,
+"y": -19
+},
+{
+"x": -64,
+"y": 529
+},
+{
+"x": 6,
+"y": 598
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 500
+}
+}
+}
+}

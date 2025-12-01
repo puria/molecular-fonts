@@ -1,0 +1,105 @@
+{
+"name": "cctom",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 124,
+"y": 265
+},
+{
+"x": 124,
+"y": 264,
+"type": "cubic"
+},
+{
+"x": 124,
+"y": 265,
+"type": "cubic"
+},
+{
+"x": 124,
+"y": 265
+},
+{
+"x": 123,
+"y": 197
+},
+{
+"x": 123,
+"y": 176,
+"type": "cubic"
+},
+{
+"x": 139,
+"y": 147,
+"type": "cubic"
+},
+{
+"x": 173,
+"y": 147
+},
+{
+"x": 242,
+"y": 147
+},
+{
+"x": 242,
+"y": 247
+},
+{
+"x": 229,
+"y": 247,
+"type": "cubic"
+},
+{
+"x": 222,
+"y": 256,
+"type": "cubic"
+},
+{
+"x": 221,
+"y": 265
+}
+],
+"isClosed": true
+}
+]
+},
+"components": [
+{
+"name": "etom",
+"transformation": {
+"translateX": -8,
+"translateY": -89
+},
+"location": {
+"length": 0
+}
+},
+{
+"name": "etom",
+"transformation": {
+"translateX": -76,
+"translateY": -89
+},
+"location": {
+"length": 0
+}
+}
+],
+"xAdvance": 500
+}
+}
+}
+}

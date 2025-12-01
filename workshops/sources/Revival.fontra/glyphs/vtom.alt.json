@@ -1,0 +1,88 @@
+{
+"name": "vtom.alt",
+"axes": [
+{
+"name": "v-height",
+"minValue": 0,
+"defaultValue": 750,
+"maxValue": 750
+}
+],
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "f98ae03e"
+},
+{
+"name": "v-height=0",
+"layerName": "v-height=0",
+"location": {
+"v-height": 0
+},
+"locationBase": "f98ae03e"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 281,
+"y": 775
+},
+{
+"x": 100,
+"y": 0
+},
+{
+"x": 0,
+"y": 0
+},
+{
+"x": 181,
+"y": 775
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 275
+}
+},
+"v-height=0": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 100,
+"y": 0
+},
+{
+"x": 100,
+"y": 0
+},
+{
+"x": 0,
+"y": 0
+},
+{
+"x": 0,
+"y": 0
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 275
+}
+}
+}
+}

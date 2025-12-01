@@ -1,0 +1,150 @@
+{
+"name": "egrave",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"components": [
+{
+"name": "jtom",
+"transformation": {
+"translateY": 559,
+"rotation": -90
+},
+"location": {
+"Quadratura": 100,
+"Altezza": 29.4441309255079,
+"Lunghezza": -35.877539503386,
+"quad": 80
+}
+},
+{
+"name": "jtom",
+"location": {
+"Quadratura": 100,
+"Altezza": 29.4441309255079,
+"Lunghezza": -35.877539503386,
+"quad": 80
+}
+},
+{
+"name": "etom.alt",
+"transformation": {
+"translateX": 338,
+"translateY": 809,
+"scaleX": -1,
+"scaleY": -1
+},
+"location": {
+"e-length": 54.2895845875978
+}
+},
+{
+"name": "itom",
+"transformation": {
+"translateX": 486,
+"translateY": 427,
+"scaleX": -1,
+"scaleY": -1
+},
+"location": {
+"i-length": 91.0972305839856
+}
+},
+{
+"name": "itom",
+"transformation": {
+"translateX": 100,
+"translateY": 406,
+"scaleX": -1,
+"scaleY": -1
+},
+"location": {
+"i-length": 264.637415349887
+}
+},
+{
+"name": "etom.alt",
+"transformation": {
+"translateX": 386,
+"translateY": 575,
+"scaleX": -1,
+"scaleY": -1
+},
+"location": {
+"e-length": 83.2630945213727
+}
+},
+{
+"name": "jtom",
+"transformation": {
+"translateX": 486,
+"translateY": 559,
+"scaleX": -1,
+"scaleY": -1
+},
+"location": {
+"Quadratura": 100,
+"Altezza": 29.4441309255079,
+"Lunghezza": -35.877539503386,
+"quad": 80
+}
+},
+{
+"name": "jtom",
+"transformation": {
+"translateX": 486,
+"translateY": 225,
+"rotation": 90
+},
+"location": {
+"Quadratura": 100,
+"Altezza": 29.4441309255079,
+"Lunghezza": -35.877539503386,
+"quad": 100
+}
+},
+{
+"name": "etom.alt",
+"transformation": {
+"translateX": 411,
+"translateY": 350,
+"scaleX": -1,
+"scaleY": -1
+},
+"location": {
+"e-length": 61.7381489841987
+}
+},
+{
+"name": "rtom",
+"transformation": {
+"translateX": 479,
+"translateY": -395,
+"rotation": 90
+},
+"location": {
+"lunghezza": 8
+}
+},
+{
+"name": "rtom",
+"transformation": {
+"translateX": -162,
+"translateY": 606
+},
+"location": {
+"lunghezza": 16.360626128838
+}
+}
+],
+"xAdvance": 500
+}
+}
+}
+}

@@ -1,0 +1,24 @@
+{
+"name": "x.alt",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"components": [
+{
+"name": "xtom",
+"location": {
+"Lunghezza": 71.4517494356659
+}
+}
+],
+"xAdvance": 500
+}
+}
+}
+}

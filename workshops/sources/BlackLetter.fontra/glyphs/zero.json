@@ -1,0 +1,55 @@
+{
+"name": "zero",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"components": [
+{
+"name": "itom.half",
+"transformation": {
+"translateX": -159
+}
+},
+{
+"name": "itom.half",
+"transformation": {
+"translateX": -159,
+"translateY": 750,
+"scaleY": -1
+}
+},
+{
+"name": "itom.half",
+"transformation": {
+"translateX": 509,
+"scaleX": -1
+}
+},
+{
+"name": "itom.half",
+"transformation": {
+"translateX": 509,
+"translateY": 750,
+"scaleX": -1,
+"scaleY": -1
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": -57,
+"translateY": -5
+}
+}
+],
+"xAdvance": 350
+}
+}
+}
+}

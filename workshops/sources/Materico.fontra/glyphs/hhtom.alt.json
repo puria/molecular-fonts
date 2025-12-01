@@ -1,0 +1,134 @@
+{
+"name": "hhtom.alt",
+"axes": [
+{
+"name": "length",
+"minValue": 0,
+"defaultValue": 0,
+"maxValue": 100
+}
+],
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+},
+{
+"name": "length=100",
+"layerName": "length=100",
+"location": {
+"length": 100
+}
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 398,
+"y": 259
+},
+{
+"x": 495,
+"y": 259
+},
+{
+"x": 494,
+"y": 259
+},
+{
+"x": 494,
+"y": 312,
+"type": "cubic"
+},
+{
+"x": 493,
+"y": 314,
+"type": "cubic"
+},
+{
+"x": 494,
+"y": 356
+},
+{
+"x": 495,
+"y": 356
+},
+{
+"x": 444,
+"y": 356,
+"type": "cubic"
+},
+{
+"x": 398,
+"y": 313,
+"type": "cubic"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 500
+}
+},
+"length=100": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 10,
+"y": 259
+},
+{
+"x": 495,
+"y": 259
+},
+{
+"x": 494,
+"y": 259
+},
+{
+"x": 494,
+"y": 312,
+"type": "cubic"
+},
+{
+"x": 493,
+"y": 314,
+"type": "cubic"
+},
+{
+"x": 494,
+"y": 356
+},
+{
+"x": 107,
+"y": 356
+},
+{
+"x": 56,
+"y": 356,
+"type": "cubic"
+},
+{
+"x": 10,
+"y": 313,
+"type": "cubic"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 500
+}
+}
+}
+}

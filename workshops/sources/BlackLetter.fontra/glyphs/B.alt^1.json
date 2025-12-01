@@ -1,0 +1,56 @@
+{
+"name": "B.alt",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"components": [
+{
+"name": "jtom",
+"transformation": {
+"translateX": 175,
+"translateY": 529,
+"scaleY": -1
+}
+},
+{
+"name": "jtom",
+"transformation": {
+"translateX": 175,
+"translateY": 11
+}
+},
+{
+"name": "itom.alt2",
+"transformation": {
+"translateX": 196,
+"translateY": 750,
+"scaleX": -1,
+"scaleY": -1
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": -8,
+"translateY": 314
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": 77,
+"translateY": 230
+}
+}
+],
+"xAdvance": 426
+}
+}
+}
+}

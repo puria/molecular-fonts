@@ -1,0 +1,34 @@
+{
+"name": "Y.alt",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"components": [
+{
+"name": "itom.half",
+"transformation": {
+"translateX": 344,
+"translateY": 657,
+"scaleX": -1,
+"scaleY": -1
+}
+},
+{
+"name": "itom.alt2",
+"transformation": {
+"translateX": 339,
+"scaleX": -1
+}
+}
+],
+"xAdvance": 349
+}
+}
+}
+}

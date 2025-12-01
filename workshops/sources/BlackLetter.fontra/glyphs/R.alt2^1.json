@@ -1,0 +1,46 @@
+{
+"name": "R.alt2",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"components": [
+{
+"name": "jtom",
+"transformation": {
+"translateX": 194,
+"translateY": 229
+}
+},
+{
+"name": "jtom",
+"transformation": {
+"translateX": 194,
+"translateY": 747,
+"scaleY": -1
+}
+},
+{
+"name": "itom.alt2",
+"transformation": {
+"translateX": 51
+}
+},
+{
+"name": "itom.half",
+"transformation": {
+"translateX": 46,
+"translateY": -1
+}
+}
+],
+"xAdvance": 500
+}
+}
+}
+}

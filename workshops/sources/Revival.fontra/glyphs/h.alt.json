@@ -1,0 +1,65 @@
+{
+"name": "h.alt",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"components": [
+{
+"name": "itom",
+"location": {
+"i-length": 750
+}
+},
+{
+"name": "jtom",
+"transformation": {
+"translateX": 483,
+"translateY": 560,
+"scaleX": -1,
+"scaleY": -1
+},
+"location": {
+"quad": 30
+}
+},
+{
+"name": "itom",
+"transformation": {
+"translateX": 383
+},
+"location": {
+"i-length": 332.104154124022
+}
+},
+{
+"name": "etom.alt",
+"transformation": {
+"translateX": 154,
+"translateY": 210
+},
+"location": {
+"e-length": 25.842865743528
+}
+},
+{
+"name": "jtom",
+"transformation": {
+"translateY": 560,
+"rotation": -90
+},
+"location": {
+"quad": 80
+}
+}
+],
+"xAdvance": 500
+}
+}
+}
+}

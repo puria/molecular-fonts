@@ -1,0 +1,16 @@
+{
+"name": "s.alt",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"xAdvance": 500
+}
+}
+}
+}

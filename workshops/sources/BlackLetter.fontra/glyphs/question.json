@@ -1,0 +1,101 @@
+{
+"name": "question",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 225,
+"y": 284
+},
+{
+"x": 296,
+"y": 213
+},
+{
+"x": 225,
+"y": 142
+},
+{
+"x": 153,
+"y": 213
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 296,
+"y": 695
+},
+{
+"x": 296,
+"y": 213
+},
+{
+"x": 196,
+"y": 213
+},
+{
+"x": 196,
+"y": 695
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 247,
+"y": 766
+},
+{
+"x": 318,
+"y": 695
+},
+{
+"x": 247,
+"y": 624
+},
+{
+"x": 175,
+"y": 695
+}
+],
+"isClosed": true
+}
+]
+},
+"components": [
+{
+"name": "dotom",
+"transformation": {
+"translateX": 457,
+"translateY": -330,
+"scaleX": -1
+}
+},
+{
+"name": "itom.half",
+"transformation": {
+"translateX": -159,
+"translateY": 750,
+"scaleY": -1
+}
+}
+],
+"xAdvance": 328
+}
+}
+}
+}

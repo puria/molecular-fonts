@@ -1,0 +1,24 @@
+{
+"name": "parenleft",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"components": [
+{
+"name": "itom.alt3",
+"transformation": {
+"translateX": -21
+}
+}
+],
+"xAdvance": 215
+}
+}
+}
+}

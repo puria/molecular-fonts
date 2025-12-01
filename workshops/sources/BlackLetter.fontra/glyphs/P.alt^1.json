@@ -1,0 +1,36 @@
+{
+"name": "P.alt",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"components": [
+{
+"name": "jtom",
+"transformation": {
+"translateX": 143,
+"translateY": 229
+}
+},
+{
+"name": "jtom",
+"transformation": {
+"translateX": 143,
+"translateY": 747,
+"scaleY": -1
+}
+},
+{
+"name": "itom.alt2"
+}
+],
+"xAdvance": 500
+}
+}
+}
+}

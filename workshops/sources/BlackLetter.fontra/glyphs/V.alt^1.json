@@ -1,0 +1,54 @@
+{
+"name": "V.alt",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"components": [
+{
+"name": "dotom",
+"transformation": {
+"translateX": -24,
+"translateY": -327
+}
+},
+{
+"name": "itom.half",
+"transformation": {
+"translateX": -125,
+"translateY": 70
+}
+},
+{
+"name": "itom.half2",
+"transformation": {
+"translateX": -148,
+"translateY": 406
+}
+},
+{
+"name": "itom.half2",
+"transformation": {
+"translateX": 542,
+"translateY": 71,
+"scaleX": -1
+}
+},
+{
+"name": "itom.half3",
+"transformation": {
+"translateX": 61,
+"translateY": 409
+}
+}
+],
+"xAdvance": 500
+}
+}
+}
+}

@@ -1,0 +1,141 @@
+{
+"name": "cctom.alt",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 322,
+"y": 265
+},
+{
+"x": 225,
+"y": 265
+},
+{
+"x": 224,
+"y": 256,
+"type": "cubic"
+},
+{
+"x": 217,
+"y": 247,
+"type": "cubic"
+},
+{
+"x": 204,
+"y": 247
+},
+{
+"x": 204,
+"y": 147
+},
+{
+"x": 270,
+"y": 147,
+"type": "cubic"
+},
+{
+"x": 322,
+"y": 200,
+"type": "cubic"
+},
+{
+"x": 322,
+"y": 265,
+"smooth": true
+},
+{
+"x": 322,
+"y": 265,
+"type": "cubic"
+},
+{
+"x": 322,
+"y": 264,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 155,
+"y": 197,
+"smooth": true
+},
+{
+"x": 155,
+"y": 169,
+"type": "cubic"
+},
+{
+"x": 177,
+"y": 147,
+"type": "cubic"
+},
+{
+"x": 204,
+"y": 147,
+"smooth": true
+},
+{
+"x": 232,
+"y": 147,
+"type": "cubic"
+},
+{
+"x": 254,
+"y": 169,
+"type": "cubic"
+},
+{
+"x": 254,
+"y": 197,
+"smooth": true
+},
+{
+"x": 254,
+"y": 224,
+"type": "cubic"
+},
+{
+"x": 232,
+"y": 246,
+"type": "cubic"
+},
+{
+"x": 204,
+"y": 246,
+"smooth": true
+},
+{
+"x": 177,
+"y": 246,
+"type": "cubic"
+},
+{
+"x": 155,
+"y": 224,
+"type": "cubic"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 500
+}
+}
+}
+}

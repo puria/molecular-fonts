@@ -1,0 +1,97 @@
+{
+"name": "l.alt",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"components": [
+{
+"name": "itom",
+"transformation": {
+"translateY": 246
+},
+"location": {
+"i-length": 510
+}
+},
+{
+"name": "jtom",
+"transformation": {
+"translateX": 304,
+"translateY": 775,
+"scaleX": -1,
+"scaleY": -1
+},
+"location": {
+"quad": 75.3612281757977
+}
+},
+{
+"name": "jtom",
+"transformation": {
+"translateY": 1
+},
+"location": {
+"quad": 30
+}
+},
+{
+"name": "itom",
+"transformation": {
+"translateX": 204,
+"translateY": 227
+},
+"location": {
+"i-length": 371.613485851896
+}
+},
+{
+"name": "jtom",
+"transformation": {
+"translateX": 304,
+"rotation": 90
+},
+"location": {
+"quad": 0
+}
+},
+{
+"name": "etom.alt",
+"transformation": {
+"translateX": 228,
+"translateY": -249
+},
+"location": {
+"e-length": 45.3341360626129
+}
+},
+{
+"name": "etom.alt",
+"transformation": {
+"translateY": 425
+},
+"location": {
+"e-length": 50.33
+}
+},
+{
+"name": "etom.alt",
+"transformation": {
+"translateX": -58,
+"translateY": -250
+},
+"location": {
+"e-length": 23.208910295003
+}
+}
+],
+"xAdvance": 500
+}
+}
+}
+}

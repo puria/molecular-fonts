@@ -1,0 +1,25 @@
+{
+"name": "parenright",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"components": [
+{
+"name": "itom.alt3",
+"transformation": {
+"translateX": 236,
+"scaleX": -1
+}
+}
+],
+"xAdvance": 215
+}
+}
+}
+}

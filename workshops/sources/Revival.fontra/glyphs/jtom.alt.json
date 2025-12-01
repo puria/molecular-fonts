@@ -1,0 +1,57 @@
+{
+"name": "jtom.alt",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 0,
+"y": 388
+},
+{
+"x": 0,
+"y": 227
+},
+{
+"x": 227,
+"y": 0
+},
+{
+"x": 388,
+"y": 0
+},
+{
+"x": 388,
+"y": 100
+},
+{
+"x": 269,
+"y": 100
+},
+{
+"x": 100,
+"y": 268
+},
+{
+"x": 100,
+"y": 388
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 250
+}
+}
+}
+}

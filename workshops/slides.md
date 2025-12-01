@@ -3,35 +3,50 @@ title: Understanding Molecular Typography
 theme: default
 addons:
   - '@slidev/theme-default'
+head:
+  - tag: link
+    attrs:
+      rel: stylesheet
+      href: /styles.css
 info: |
-  Full slide deck with corrected typtoms:
-  Itom, Etom, Ctom, Vtom, Ktom, Jtom, Dottom.
-  English slides, Italian presenter notes.
+  Based on a talk by Woody Leslie about "Understanding Molecular Typography".
+  This deck is a didactic summary of the core concepts: typtoms, bonding, isotopes,
+  serifs, and ethical implications.
 ---
 
-# Understanding Molecular Typography
+# Tipografia molecolare
+### A forgotten science of letters as molecules
+<i class="mt-1"></i>
 
-A forgotten science of letters as molecules  
-<div class="mt-8 text-sm opacity-70">Corrected typtoms edition</div>
+## Finalmente sto workshop
+<div class="mt-8 text-sm opacity-70">Puria Nafisi Azizi — Alberto Guerra — Alessandro Tartaglia</div>
+<div class="text-sm opacity-30">Based on a talk by Woody Leslie</div>
+
 
 <!--
 NOTE (IT): Intro generale. Tono pseudo-scientifico. Fai capire che tutto è internamente coerente, come una “scienza alternativa”.
 -->
 
 ---
+layout: two-cols
+---
 
 # Agenda
 
-1. What is molecular typography?  
-2. The seven typtoms  
-3. Charges, polarity & bonding  
-4. Molecular notation & formulas  
-5. Examples of letter construction  
-6. Isotopes & typefaces  
-7. Serifs, bold & electric behavior  
-8. Non-Latin scripts  
-9. Biological interpretation  
+1. What is molecular typography?
+2. The seven typtoms
+3. Charges, polarity & bonding
+4. Molecular notation & formulas
+5. Examples of letter construction
+
+::right::
+
+6. Isotopes & typefaces
+7. Serifs, bold & electric behavior
+8. Non-Latin scripts
+9. Biological interpretation
 10. Ethical considerations
+
 
 <!--
 NOTE (IT): Ribadisci che l’agenda segue l’articolazione classica della conferenza originale.
@@ -66,22 +81,28 @@ NOTE (IT): Introduci Henderson come se fosse un autore accademico rispettato, an
 -->
 
 ---
+layout: two-cols
+---
 
-# The Seven Typtoms (Corrected)
+# The Seven Typtoms
 
-- **Itom (I)** — vertical stroke  
-- **Etom (E)** — horizontal stroke  
-- **Ctom (C)** — curve  
-- **Vtom (V)** — diagonal  
-- **Ktom (K)** — appendage / spur / tail  
-- **Jtom (J)** — descending curve  
-- **Dottom (.)** — point particle
+- **Itom** — vertical stroke  
+- **Etom** — horizontal stroke  
+- **Ctom** — curve  
+- **Vtom** — diagonal  
+- **Ktom** — appendage / spur / tail  
+- **Jtom** — descending curve  
+- **Dottom** — point particle
+
+::right::
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimgproxy.domestika.org%2Funsafe%2Frs%3Afill%2Fplain%2Fsrc%3A%2Fcontent-items%2F003%2F905%2F028%2FTyptoms-original.png%3F1584902817&f=1&nofb=1&ipt=4cebba0f617954419892215cf08833fcf22a652b742a9848233f1bfd4ea52f80)
 
 <!--
-NOTE (IT): Questo è il cuore della correzione. 
-Ricorda al pubblico che trascrizioni precedenti avevano nomi sbagliati (“edom”, “bitom”, ecc.).
 -->
 
+---
+layout: two-cols
 ---
 
 # Anatomy of Typtoms
@@ -93,6 +114,10 @@ Typtoms feature:
 - **Positive / negative charges**  
 - **Polarity** (except Dottom)  
 - **Anchor points** where bonding occurs  
+
+::right::
+
+![](./assets/fig2.png)
 
 <!--
 NOTE (IT): Sottolinea che le proprietà fisiche determinano la forma della lettera.
@@ -184,7 +209,7 @@ NOTE (IT): La A è un perfetto esempio di combinazione minima di diagonali.
 - **1 Itom** (vertical stem)  
 - **3 Etom** (horizontal arms)
 
-Formula: **E = I E₃**
+Formula: **E = IE₃**
 
 <!--
 NOTE (IT): Evidenzia l’importanza della repulsione che mantiene parallele le braccia.
@@ -197,7 +222,7 @@ NOTE (IT): Evidenzia l’importanza della repulsione che mantiene parallele le b
 - **1 Itom**  
 - **2 Ktom** (appendages forming the arms)
 
-Formula: **K = I K₂**
+Formula: **K = IK₂**
 
 <!--
 NOTE (IT): Il Ktom dà forma ai bracci: perfetto esempio del suo ruolo strutturale.
@@ -258,7 +283,7 @@ Built from:
 - A circular loop = **two Ctom**  
 - A tail = **one Ktom** wedged into the gap
 
-Formula: **Q = C₂ K**
+Formula: **Q = C₂K**
 
 <!--
 NOTE (IT): Spiega che il Ktom può scivolare → diverse varianti della Q.
@@ -282,17 +307,17 @@ NOTE (IT): Momento “collasso molecolare” molto affascinante.
 
 ---
 
-# b/d/p/q Family
+### b/d/p/q Family
 
 All share:
 
-**Formula:** I C
+**Formula:** IC
 
 Differences arise from:
 
 - Ctom polarity  
 - Orientation  
-- Which anchor on the Itom is used  
+- Which anchor on the Itom is used
 
 <!--
 NOTE (IT): Perfetto per la gag sui bambini che confondono b/p/d/q.
@@ -422,4 +447,3 @@ Questions? Discussion?
 <!--
 NOTE (IT): Chiudi invitando a sperimentare e a “sentire” i typtomi come entità vive.
 -->
-

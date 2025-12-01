@@ -1,0 +1,38 @@
+{
+"name": "A.alt2",
+"sources": [
+{
+"name": "default",
+"layerName": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"components": [
+{
+"name": "itom.alt4",
+"transformation": {
+"translateX": 196
+}
+},
+{
+"name": "itom.alt4",
+"transformation": {
+"translateX": 196,
+"scaleX": -1
+}
+},
+{
+"name": "dotom",
+"transformation": {
+"translateX": -39,
+"translateY": -11
+}
+}
+],
+"xAdvance": 392
+}
+}
+}
+}

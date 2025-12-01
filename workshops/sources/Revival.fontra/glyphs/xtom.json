@@ -1,0 +1,87 @@
+{
+"name": "xtom",
+"axes": [
+{
+"name": "Lunghezza",
+"minValue": 0,
+"defaultValue": 0,
+"maxValue": 100
+}
+],
+"sources": [
+{
+"name": "lunghezza=0",
+"layerName": "lunghezza=0"
+},
+{
+"name": "Lunghezza=100",
+"layerName": "Lunghezza=100",
+"location": {
+"Lunghezza": 100
+},
+"locationBase": "f98ae03e"
+}
+],
+"layers": {
+"Lunghezza=100": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 611,
+"y": 0
+},
+{
+"x": 48,
+"y": 775
+},
+{
+"x": -76,
+"y": 775
+},
+{
+"x": 487,
+"y": 0
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 500
+}
+},
+"lunghezza=0": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 610.9,
+"y": 0
+},
+{
+"x": 611,
+"y": 0
+},
+{
+"x": 487,
+"y": 0
+},
+{
+"x": 487.29,
+"y": 0
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 500
+}
+}
+}
+}
